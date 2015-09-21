@@ -1,7 +1,7 @@
 {
   "name": "Input_Output_Streams",
   "version": "0.0.0",
-  "description": "",
+  "description": "Input stream Output stream",
   "main": "app.js",
   "author": {
     "name": "Tushar",
