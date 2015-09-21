@@ -2,6 +2,6 @@
   "name": "db_MongoDB",
   "version": "0.0.0",
   "dependencies": {
-    "mongodb": "^2.0.39"
+    "mongodb": "^2.4.14"
   }
 }
